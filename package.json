@@ -1,5 +1,5 @@
 {
-  "name": "image-resizer",
+  "name": "jjennings-demo-dast",
   "version": "1.3.0",
   "description": "On-the-fly image resizing and optimization using node and sharp (libvips). Heroku ready!",
   "main": "index.js",
