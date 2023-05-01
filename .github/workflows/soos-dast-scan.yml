@@ -40,7 +40,7 @@ jobs:
           api_key: ${{ secrets.SOOS_API_KEY }}
           project_name: "dast-demo"
           scan_mode: "baseline"
-          target_url: "https://www.example.com/"
+          target_url: "https://brokencrystals.com/"
           api_url: "https://dev-api-analysis.soos.io/api/"
           output_format: "sarif"
       - name: Upload SOOS DAST SARIF Report
